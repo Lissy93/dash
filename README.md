@@ -1,4 +1,10 @@
-# Alicia App - A Dashboard of your things and stuff
+
+| ⚠️ Dash has now been replaced with <a href="https://github.com/Lissy93/dashy">Dashy</a> ⚠️ |
+|-|
+
+---
+
+# Dash - A Dashboard of your things and stuff
 
 > A customizable personal dashboard with a focus on speed, simplicity and security 🚀
 
